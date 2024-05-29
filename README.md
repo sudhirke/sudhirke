@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sudhirke
-- 👀 I’m interested in Office 365 | Building cool SharePoint applications
-- 🌱 iOS application development using SwiftUI/SwiftData
-- 💞️ I’m looking to collaborate on iOS application development
-- 📫 How to reach me sudhir@spxpert.com
+- Hi, I’m @sudhirke
+- Expert in in Office 365 | Power Apps development.
+- Building teams app using Teams Toolkit / React
+- iOS application development using SwiftUI/SwiftData [Hobby Projects]
+- Front end development using ReactJS.
+- I’m looking to collaborate on iOS application development
+- How to reach me sudhir@spxpert.com
 - https://www.upwork.com/freelancers/sudhirke
 
 <!---

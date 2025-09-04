@@ -4,7 +4,7 @@
 - iOS application development using SwiftUI/SwiftData [Hobby Projects]
 - Front end development using ReactJS.
 - I’m looking to collaborate on iOS application development
-- How to reach me sudhir@spxpert.com
+- How to reach me http://www.sudhirke.in
 - https://www.upwork.com/freelancers/sudhirke
 
 <!---
